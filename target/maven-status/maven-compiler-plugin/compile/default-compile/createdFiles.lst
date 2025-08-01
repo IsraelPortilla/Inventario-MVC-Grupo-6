@@ -1,0 +1,14 @@
+controlador\ControladorInventario$ListenerCalcularTotal.class
+com\mycompany\control_inventario\a$1.class
+com\mycompany\control_inventario\a.class
+controlador\ControladorInventario$ListenerAgregar.class
+com\mycompany\control_inventario\a$2.class
+modelo\conexion_mongodb.class
+controlador\ControladorInventario.class
+com\mycompany\control_inventario\a$4.class
+controlador\ControladorInventario$ListenerActualizar.class
+com\mycompany\control_inventario\a$3.class
+modelo\Inventario.class
+com\mycompany\control_inventario\a$5.class
+modelo\Producto.class
+controlador\ControladorInventario$ListenerConsultar.class
